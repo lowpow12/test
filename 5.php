@@ -1,5 +1,5 @@
 <?php
-class Vehicle {
+abstract class Vehicle {
     private $name = 'bike';
 
     public function fun()
